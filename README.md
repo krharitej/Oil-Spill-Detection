@@ -154,7 +154,7 @@ Refer to the project scripts and notebooks for detailed implementation.
 
 ## Authors
 
-**K R Haritej**
+**K R Haritej**  
 Jithendra N  
 Harshith P
 
