@@ -78,6 +78,7 @@ Teacher predictions are combined using entropy-based confidence weighting to red
 
 ## System Workflow
 
+```
 SAR Images
 ↓
 Preprocessing & Augmentation
@@ -91,6 +92,7 @@ Knowledge Distillation
 Lightweight Student Model
 ↓
 Oil Spill Prediction
+```
 
 ---
 
