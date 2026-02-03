@@ -79,19 +79,19 @@ Teacher predictions are combined using entropy-based confidence weighting to red
 ## System Workflow
 
 ```
-SAR Images
-↓
+        SAR Images
+            ↓
 Preprocessing & Augmentation
-↓
+            ↓
 Heterogeneous Teacher Models
-↓
-Entropy-Weighted Ensemble
-↓
-Knowledge Distillation
-↓
-Lightweight Student Model
-↓
-Oil Spill Prediction
+            ↓
+    Entropy-Weighted Ensemble
+            ↓
+    Knowledge Distillation
+            ↓
+  Lightweight Student Model
+            ↓
+     Oil Spill Prediction
 ```
 
 ---
